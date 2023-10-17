@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @youssefelmasry2
 - 👀 I’m interested in web development and data science 
 - 🌱 I’m currently learning machine leraning and django 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects that include machine learning and web development 
 - 📫 How to reach me youssefelmasryy@gmail.com
 
 <!---
